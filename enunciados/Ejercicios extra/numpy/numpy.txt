@@ -1,0 +1,1 @@
+rougier/numpy-100: 100 numpy exercises (with solutions) (github.com)
